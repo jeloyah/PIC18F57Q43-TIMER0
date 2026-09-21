@@ -4,7 +4,6 @@
 #include "clock.h"
 #include "gpio.h"
 #include "timer0.h"
-#include "pps.h"
 
 void main(void) {
     
